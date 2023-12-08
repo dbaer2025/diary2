@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-diary2-dev-224350-authRole",
+      "UnauthRoleArn": "arn:aws:iam::681773937819:role/amplify-diary2-dev-224350-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::681773937819:role/amplify-diary2-dev-224350-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-diary2-dev-224350-deployment",
+      "UnauthRoleName": "amplify-diary2-dev-224350-unauthRole",
+      "StackName": "amplify-diary2-dev-224350",
+      "StackId": "arn:aws:cloudformation:us-east-1:681773937819:stack/amplify-diary2-dev-224350/0137edf0-957c-11ee-a7a1-0ebb723a4e31",
+      "AmplifyAppId": "d2lap941ad7xmv"
+    },
+    "categories": {
+      "api": {
+        "diary2": {}
+      }
+    }
+  }
+}
